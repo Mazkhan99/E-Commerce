@@ -1,0 +1,40 @@
+.RelatedProducts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 400px 20px;
+    overflow: hidden;
+    margin-top: -180px;
+}
+
+.RelatedProducts h1 {
+    color: #171717;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
+.RelatedProducts hr {
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+    margin: 10px auto;
+}
+
+.relatedProducts-item {
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap; /* Ensures items wrap instead of overflowing */
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+}
