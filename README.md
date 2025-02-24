@@ -1,5 +1,5 @@
 # StyleX
-# Live Demo : https://stylex.mazkhan.tech/
+# Live Demo : [stylex.mazkhan.tech](https://stylex.mazkhan.tech)
 
 Welcome to **StyleX** – an innovative fashion and lifestyle platform at **stylex.mazkhan.tech**. This repository contains the source code and documentation for the website.
 
